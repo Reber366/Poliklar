@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PoliKlar – Politik einfach & neutral verstehen</title>
+<meta name="description" content="PoliKlar erklärt Wahlprogramme aller Parteien in einfacher Sprache – für jedes Bundesland.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+<!-- ============ HEADER ============ -->
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="logo" href="#top">Poli<span>Klar</span></a>
+
+    <nav class="main-nav" aria-label="Hauptnavigation">
+      <a href="#tool">Vergleich</a>
+      <a href="#geschichte">Grundwissen</a>
+      <a href="#quiz">Quiz</a>
+      <a href="#wirkung">Über uns</a>
+    </nav>
+
+    <div class="a11y-bar" role="group" aria-label="Anzeige-Einstellungen">
+      <button type="button" id="font-decrease" aria-label="Schrift verkleinern">A−</button>
+      <button type="button" id="font-increase" aria-label="Schrift vergrößern">A+</button>
+      <button type="button" id="contrast-toggle" aria-pressed="false">Kontrast</button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ HERO ============ -->
+  <section id="top" class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-text">
+        <p class="kicker">Politische Aufklärung für alle ab 18</p>
+        <h1>Politik verstehen, ohne Fachwissen.</h1>
+        <p class="lead">
+          PoliKlar fasst Wahlprogramme in einfacher Sprache zusammen und stellt
+          sie neutral gegenüber – für jedes Bundesland und die Themen, die dich
+          wirklich betreffen.
+        </p>
+        <div class="hero-actions">
+          <a href="#tool" class="btn btn-primary">Wahlprogramme vergleichen</a>
+          <a href="#geschichte" class="btn btn-ghost">Grundwissen entdecken</a>
+        </div>
+      </div>
+
+      <div class="hero-media">
+        <div class="photo-placeholder photo-placeholder--tall" data-photo-slot="hero">
+          <span>Foto folgt</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PROBLEM ============ -->
+  <section class="section" id="problem">
+    <div class="wrap two-col">
+      <div>
+        <h2>Politik ist oft schwer zu verstehen</h2>
+
+        <div class="fact-list">
+          <div class="fact">
+            <h3>Amtsdeutsch statt Alltagssprache</h3>
+            <p>Wahlprogramme und Gesetzestexte stecken voller Fachbegriffe und
+              langer, verschachtelter Sätze.</p>
+          </div>
+          <div class="fact">
+            <h3>Keine Übersicht</h3>
+            <p>Viele junge Wählende wissen nicht genau, wofür die einzelnen
+              Parteien in ihrem Bundesland konkret stehen.</p>
+          </div>
+          <div class="fact">
+            <h3>Zu viele Informationen</h3>
+            <p>Auf Social Media kursieren oft verkürzte oder irreführende
+              Aussagen statt geprüfter Fakten.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="photo-placeholder" data-photo-slot="problem">
+        <span>Foto folgt</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ LÖSUNG ============ -->
+  <section class="section section--alt">
+    <div class="wrap">
+      <h2>Was PoliKlar bietet</h2>
+      <div class="card-grid">
+        <article class="feature-card">
+          <h3>Einfache Sprache</h3>
+          <p>Wahlprogramme aller Parteien, aus jedem Bundesland, verständlich
+            und übersichtlich zusammengefasst.</p>
+        </article>
+        <article class="feature-card">
+          <h3>Politisches Grundwissen</h3>
+          <p>Kurze, anschauliche Erklärungen zu Geschichte, Grundgesetz und
+            demokratischen Strukturen.</p>
+        </article>
+        <article class="feature-card">
+          <h3>Interaktiver Vergleich</h3>
+          <p>Parteien direkt gegenüberstellen, Quellen einsehen und Wissen im
+            Quiz testen – optimiert fürs Smartphone.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ TOOL: VERGLEICH ============ -->
+  <section class="section tool-section" id="tool">
+    <div class="wrap">
+      <h2>Wahlprogramme vergleichen</h2>
+      <p class="section-intro">
+        Wähle dein Bundesland und ein Thema. Wir zeigen dir, wofür SPD, CDU,
+        Die Linke, AfD und FDP dort stehen. PoliKlar bewertet keine Partei –
+        wir fassen nur zusammen, was in den Programmen steht, und verlinken
+        die Originalquelle.
+      </p>
+
+      <div class="tool-controls">
+        <div class="field">
+          <label for="bundesland-select">Bundesland</label>
+          <select id="bundesland-select"></select>
+        </div>
+
+        <div class="field">
+          <label for="thema-select">Thema</label>
+          <select id="thema-select"></select>
+        </div>
+
+        <button type="button" id="read-aloud-btn" class="btn btn-ghost btn-small">
+          🔊 Vorlesen
+        </button>
+      </div>
+
+      <p id="tool-status" class="tool-status" role="status" aria-live="polite"></p>
+
+      <div id="party-results" class="party-grid" aria-live="polite">
+        <!-- wird per JavaScript befüllt -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ GESCHICHTE & GRUNDWISSEN ============ -->
+  <section class="section" id="geschichte">
+    <div class="wrap">
+      <h2>Politisches Grundwissen</h2>
+
+      <div class="two-col">
+        <div>
+          <h3>Wichtige Meilensteine</h3>
+          <ol class="timeline" id="timeline-list">
+            <!-- wird per JavaScript befüllt -->
+          </ol>
+        </div>
+
+        <div>
+          <h3>Wie funktioniert unsere Demokratie?</h3>
+          <div class="accordion" id="grundwissen-accordion">
+            <!-- wird per JavaScript befüllt -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ ============ -->
+  <section class="section section--alt" id="quiz">
+    <div class="wrap">
+      <h2>Teste dein Wissen</h2>
+      <p class="section-intro">Sechs kurze Fragen zu politischem Grundwissen. Kein Fachjargon, versprochen.</p>
+
+      <div class="quiz-card" id="quiz-card">
+        <div id="quiz-start-screen">
+          <p>Bereit? Das Quiz dauert etwa zwei Minuten.</p>
+          <button type="button" id="quiz-start-btn" class="btn btn-primary">Quiz starten</button>
+        </div>
+
+        <div id="quiz-question-screen" class="hidden">
+          <p class="quiz-progress" id="quiz-progress"></p>
+          <h3 id="quiz-question"></h3>
+          <div id="quiz-options" class="quiz-options"></div>
+          <p id="quiz-feedback" class="quiz-feedback hidden" role="status"></p>
+          <button type="button" id="quiz-next-btn" class="btn btn-primary hidden">Weiter</button>
+        </div>
+
+        <div id="quiz-result-screen" class="hidden">
+          <p class="quiz-badge">🏅 Abzeichen freigeschaltet</p>
+          <h3 id="quiz-result-heading"></h3>
+          <p id="quiz-result-text"></p>
+          <button type="button" id="quiz-restart-btn" class="btn btn-ghost">Nochmal versuchen</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WIRKUNG ============ -->
+  <section class="section" id="wirkung">
+    <div class="wrap">
+      <h2>Warum das wichtig ist</h2>
+      <div class="card-grid">
+        <article class="impact-card">
+          <div class="photo-placeholder photo-placeholder--square" data-photo-slot="impact-1">
+            <span>Foto folgt</span>
+          </div>
+          <h3>Zugänglich für alle</h3>
+          <p>Verständliche Sprache öffnet Politik für Menschen mit
+            unterschiedlichen Bildungshintergründen.</p>
+        </article>
+        <article class="impact-card">
+          <div class="photo-placeholder photo-placeholder--square" data-photo-slot="impact-2">
+            <span>Foto folgt</span>
+          </div>
+          <h3>Ergänzung für den Unterricht</h3>
+          <p>Als zusätzliches Lernmaterial für Berufsschulen, Gymnasien und
+            Universitäten gedacht.</p>
+        </article>
+        <article class="impact-card">
+          <div class="photo-placeholder photo-placeholder--square" data-photo-slot="impact-3">
+            <span>Foto folgt</span>
+          </div>
+          <h3>Stärkere Demokratie</h3>
+          <p>Gut informierte Menschen treffen eigene, selbstbewusste
+            Wahlentscheidungen.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <a class="logo logo--footer" href="#top">Poli<span>Klar</span></a>
+      <p>Politik einfach & neutral verstehen.</p>
+    </div>
+
+    <div>
+      <h4>Kontakt</h4>
+      <p><a href="mailto:projekt-poliklar@gruppe.de">projekt-poliklar@gruppe.de</a></p>
+      <p>#PoliKlar</p>
+    </div>
+
+    <div>
+      <h4>Teilen</h4>
+      <div class="share-row">
+        <button type="button" class="btn btn-ghost btn-small" id="share-copy">Link kopieren</button>
+        <a class="btn btn-ghost btn-small" id="share-whatsapp" href="#" target="_blank" rel="noopener">WhatsApp</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <p class="fine-print">
+      PoliKlar befindet sich im Aufbau. Inhalte zu den Wahlprogrammen werden
+      fortlaufend ergänzt und vor Veröffentlichung von Fachredakteur:innen
+      geprüft. Fotos werden nachträglich ergänzt.
+    </p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

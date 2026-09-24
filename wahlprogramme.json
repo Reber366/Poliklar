@@ -1,0 +1,1828 @@
+{
+    "bundeslaender": [
+      "Baden-Württemberg",
+      "Bayern",
+      "Berlin",
+      "Brandenburg",
+      "Bremen",
+      "Hamburg",
+      "Hessen",
+      "Mecklenburg-Vorpommern",
+      "Niedersachsen",
+      "Nordrhein-Westfalen",
+      "Rheinland-Pfalz",
+      "Saarland",
+      "Sachsen",
+      "Sachsen-Anhalt",
+      "Schleswig-Holstein",
+      "Thüringen"
+    ],
+    "parteien": [
+      "AfD",
+      "CDU",
+      "Die Linke",
+      "FDP",
+      "SPD"
+    ],
+    "themen": [
+      "Arbeit",
+      "Bildung",
+      "Digitalisierung",
+      "Klima",
+      "Wohnen"
+    ],
+    "positionen": {
+      "Baden-Württemberg": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Bayern": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Berlin": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Brandenburg": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Bremen": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Hamburg": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Hessen": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Mecklenburg-Vorpommern": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Niedersachsen": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Nordrhein-Westfalen": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Rheinland-Pfalz": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Saarland": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Sachsen": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Sachsen-Anhalt": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Schleswig-Holstein": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      },
+      "Thüringen": {
+        "Arbeit": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Bildung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Digitalisierung": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Klima": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        },
+        "Wohnen": {
+          "AfD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "CDU": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "Die Linke": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "FDP": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          },
+          "SPD": {
+            "text": "Platzhalter: Hier folgt eine in einfacher Sprache zusammengefasste, geprüfte Position dieser Partei zu diesem Thema in diesem Bundesland.",
+            "quelle": ""
+          }
+        }
+      }
+    }
+  }
